@@ -32,7 +32,8 @@
         "symfony/maker-bundle": "^1.0",
         "symfony/phpunit-bridge": "^4.0",
         "symfony/profiler-pack": "*",
-        "symfony/web-server-bundle": "^4.0"
+        "symfony/web-server-bundle": "^4.0",
+        "heroku/heroku-buildpack-php": "*"
     },
     "config": {
         "preferred-install": {
