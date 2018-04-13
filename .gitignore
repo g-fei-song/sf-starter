@@ -33,6 +33,7 @@
 # PHPUnit
 /app/phpunit.xml
 /phpunit.xml
+bin/.phpunit
 
 # Build data
 /build/
