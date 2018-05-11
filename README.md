@@ -5,4 +5,4 @@ Symfony Starter Project
 [![BCH compliance](https://bettercodehub.com/edge/badge/g-fei-song/sf-starter?branch=master)](https://bettercodehub.com/)
 [![Heroku](https://heroku-badge.herokuapp.com/?app=sf-starter)](https://sf-starter.herokuapp.com/)
 
-这家伙很懒的！
+- Symfony 4.x
